@@ -12,7 +12,13 @@ After logging in, you can start creating your **API Key**, which will power the 
 
 ## 2. Creating API Key
 Navigate to the **[GroqCloud API Key Dashboard](https://console.groq.com/keys)** to create a key.
-Click on the **Create API Key** button. In the popup, name your key (e.g., "CreatureChat"). Create your key and **copy it and save it somewhere safe**. DO NOT SHARE THIS WITH ANYONE. (follow the screenshots below)
+Click on the **Create API Key** button. In the popup, name your key (e.g., "CreatureChat") and Create it. (follow the screenshots below)
+> [!IMPORTANT]
+> Copy your key and keep it somewhere safe until the last step!
+
+> [!WARNING]
+> **DO NOT SHARE THIS KEY TO ANYBODY.** If you really have to, only send the key partially if they are not meant to use it, only to view.
+
 ![creating the api key](https://i.ibb.co/cxcmFFr/im1ge.png)
 ![popup box](https://i.ibb.co/nCRFq0j/image.png)
 ![copying api key](https://i.ibb.co/CJNK4vY/image-2.png)
@@ -33,31 +39,35 @@ In any of your singleplayer worlds or on multiplayer, enter these commands:
 
 `/creaturechat url set "https://api.groq.com/openai/v1/chat/completions"` - This is the Groq API endpoint; do not modify this.
 
-(Note: Do not visit the URL in the second command; it's an API endpoint and is not meant to be accessed directly.)
+> [!NOTE]
+> Do not visit the URL in the second command; it's an API endpoint and is not meant to be accessed directly.
 
-We've now set the model for the AI. Here is a list of other models you can switch to if desired. Use the `/creaturechat model set` command and replace "llama3-8b-8192" with one of these:
+We've now set the model for the AI.
 
-<table>
-  <tr>
-    <th>Provider</th>
-    <th>Model Name</th>
-  </tr>
-  <tr>
-    <td>Google</td>
-    <td>gemma-7b-it</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Meta</td>
-    <td>llama3-70b-8192</td>
-  </tr>
-  <tr>
-    <td>llama3-8b-8192</td>
-  </tr>
-  <tr>
-    <td>Mistral AI</td>
-    <td>mixtral-8x7b-32768</td>
-  </tr>
-</table>
+> [!TIP]
+> You can use a different model if you'd like! Here is a list of other models you can switch to if desired. Use the `/creaturechat model set` command and replace "llama3-8b-8192" with one of these:
+> 
+> <table>
+>  <tr>
+>    <th>Provider</th>
+>    <th>Model Name</th>
+>  </tr>
+>  <tr>
+>    <td>Google</td>
+>    <td>gemma-7b-it</td>
+>  </tr>
+>  <tr>
+>    <td rowspan="2">Meta</td>
+>    <td>llama3-70b-8192</td>
+>  </tr>
+>  <tr>
+>    <td>llama3-8b-8192</td>
+>  </tr>
+>  <tr>
+>    <td>Mistral AI</td>
+>    <td>mixtral-8x7b-32768</td>
+>  </tr>
+> </table>
 
 ### Final Steps
 Enter this command in Minecraft chat:
