@@ -45,7 +45,7 @@ In any of your singleplayer worlds or on multiplayer, enter these commands:
 We've now set the model for the AI.
 
 > [!TIP]
-> You can use a different model if you'd like! Here is a list of other models you can switch to if desired. Use the `/creaturechat model set` command and replace "llama3-8b-8192" with one of these:
+> You can use a different model if you'd like! Here is a list of other models you can switch to; Use the `/creaturechat model set` command and replace "llama3-8b-8192" with one of these:
 > 
 > <table>
 >  <tr>
