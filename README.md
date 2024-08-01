@@ -1,4 +1,7 @@
-# Groq & Usage with CreatureChat
+<img src="https://github.com/user-attachments/assets/aff4f9ff-11c4-4fda-919b-723545225749" width="50"> << me <p>shuv here, i dont maintain this project anymore, if you wish to fix an issue you noticed, create a pull request, thx</p>
+
+# Groq
+& Usage with CreatureChat
 Learn how to set up **Groq** with **CreatureChat** to use it and play for free.
 
 **Requirements:**
@@ -48,26 +51,52 @@ We've now set the model for the AI.
 > You can use a different model if you'd like! Here is a list of other models you can switch to; Use the `/creaturechat model set` command and replace "llama3-8b-8192" with one of these:
 > 
 > <table>
->  <tr>
->    <th>Provider</th>
->    <th>Model Name</th>
->  </tr>
->  <tr>
->    <td>Google</td>
->    <td>gemma-7b-it</td>
->  </tr>
->  <tr>
->    <td rowspan="2">Meta</td>
->    <td>llama3-70b-8192</td>
->  </tr>
->  <tr>
->    <td>llama3-8b-8192</td>
->  </tr>
->  <tr>
->    <td>Mistral AI</td>
->    <td>mixtral-8x7b-32768</td>
->  </tr>
+>   <tr>
+>     <th>Provider</th>
+>     <th>Model Name</th>
+>   </tr>
+>   <tr>
+>     <td>Google</td>
+>     <td>gemma2-9b-it</td>
+>   </tr>
+>   <tr>
+>     <td>Google</td>
+>     <td>gemma-7b-it</td>
+>   </tr>
+>   <tr>
+>     <td rowspan="5">Meta</td>
+>     <td>llama-3.1-70b-versatile</td>
+>   </tr>
+>   <tr>
+>     <td>llama-3.1-8b-instant</td>
+>   </tr>
+>   <tr>
+>     <td>llama3-70b-8192</td>
+>   </tr>
+>   <tr>
+>     <td>llama3-8b-8192</td>
+>   </tr>
+>   <tr>
+>     <td>llama-guard-3-8b</td>
+>   </tr>
+>   <tr>
+>     <td rowspan="2">Groq</td>
+>     <td>llama3-groq-70b-8192-tool-use-preview</td>
+>   </tr>
+>   <tr>
+>     <td>llama3-groq-8b-8192-tool-use-preview</td>
+>   </tr>
+>   <tr>
+>     <td>Mistral AI</td>
+>     <td>mixtral-8x7b-32768</td>
+>   </tr>
+>   <tr>
+>     <td>OpenAI</td>
+>     <td>whisper-large-v3</td>
+>   </tr>
 > </table>
+
+
 
 ### Final Steps
 Enter this command in Minecraft chat:
