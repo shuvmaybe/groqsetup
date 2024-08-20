@@ -6,7 +6,7 @@ Learn how to set up **Groq** with **CreatureChat** to use it and play for free.
 
 **Requirements:**
   * Google Account
-  * 5 braincells
+  * 1 braincell 
 
 ## 1. Setting up Groq & Logging in
 Head over to **[Groq](https://groq.com/)** and log in with your Google account. (see image below)
