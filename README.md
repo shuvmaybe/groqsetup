@@ -1,7 +1,8 @@
 <img src="https://github.com/user-attachments/assets/aff4f9ff-11c4-4fda-919b-723545225749" width="50"> << me <p>shuv here, i dont maintain this project anymore, if you wish to fix an issue you noticed, create a pull request, thx</p>
 
-# Groq
-& Usage with CreatureChat
+**if something doesn't work DO NOT PM ME for god's sake I will 100% ignore you both in the server and my pms regardless of issue**
+
+# Groq & Usage with CreatureChat
 Learn how to set up **Groq** with **CreatureChat** to use it and play for free.
 
 **Requirements:**
@@ -56,11 +57,10 @@ We've now set the model for the AI.
 >     <th>Model Name</th>
 >   </tr>
 >   <tr>
->     <td>Google</td>
+>     <td rowspan="2">Google</td>
 >     <td>gemma2-9b-it</td>
 >   </tr>
 >   <tr>
->     <td>Google</td>
 >     <td>gemma-7b-it</td>
 >   </tr>
 >   <tr>
