@@ -2,6 +2,8 @@
 
 **if something doesn't work DO NOT PM ME for god's sake I will 100% ignore you both in the server and my pms regardless of issue**
 
+# ** DO NOT PING ME FOR ANY ISSUE I COULDN'T CARE LESS ABOUT YOUR ISSUES **
+
 # Groq & Usage with CreatureChat
 Learn how to set up **Groq** with **CreatureChat** to use it and play for free.
 
