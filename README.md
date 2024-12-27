@@ -9,7 +9,9 @@ Learn how to set up **Groq** with **CreatureChat** to use it and play for free.
 
 **Requirements:**
   * Google Account
-  * 1 braincell 
+  * 1 braincell
+
+"what do i do when i don't have 1 braincell??" stfu
 
 ## 1. Setting up Groq & Logging in
 Head over to **[Groq](https://groq.com/)** and log in with your Google account. (see image below)
@@ -51,7 +53,7 @@ In any of your singleplayer worlds or on multiplayer, enter these commands:
 We've now set the model for the AI.
 
 > [!TIP]
-> You can use a different model if you'd like! Here is a list of other models you can switch to; Use the `/creaturechat model set` command and replace "llama3-8b-8192" with one of these:
+> You can use a different model if you'd like! Here is a list of all possible models you can switch to; Use the `/creaturechat model set` command and replace "llama3-8b-8192" with one of these:
 > 
 > <table>
 >   <tr>
@@ -91,10 +93,6 @@ We've now set the model for the AI.
 >   <tr>
 >     <td>Mistral AI</td>
 >     <td>mixtral-8x7b-32768</td>
->   </tr>
->   <tr>
->     <td>OpenAI</td>
->     <td>whisper-large-v3</td>
 >   </tr>
 > </table>
 
